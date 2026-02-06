@@ -1,3 +1,5 @@
+'use server'
+
 type Image = {
     url: string;
 }
